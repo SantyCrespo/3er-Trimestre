@@ -22,8 +22,8 @@
 #include <ThingerESP32.h>
 
 // ── Credenciales Thinger.io ──────────────────────────────────
-#define USERNAME          "Maria_Correa"
-#define DEVICE_ID         "leds4"
+#define USERNAME          "Santiagocrespo"
+#define DEVICE_ID         "leds"
 #define DEVICE_CREDENTIAL "12345678"
 
 // ── Credenciales WiFi ────────────────────────────────────────
